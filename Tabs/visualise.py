@@ -9,7 +9,6 @@ from web_functions import train_model
 def app(df, x, y):
 
     warnings.filterwarnings('ignore')
-    st.set_option('deprecation.showPyplotGlobalUse', False)
 
     st.title("Visualisasi Prediksi Penyakit Ginjal")
 
