@@ -3,5 +3,6 @@ pandas==2.2.2
 streamlit
 scikit-learn
 matplotlib
+py.plot
 seaborn
 pip==24.1
